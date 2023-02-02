@@ -1,8 +1,10 @@
 {
   "cSpell.words": [
     "fluxcd",
+    "gitrepository",
     "Kustomization",
     "kustomize",
-    "lyzhang"
+    "lyzhang",
+    "OIDC"
   ]
 }
